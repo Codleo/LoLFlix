@@ -15,7 +15,7 @@ function App() {
      <BannerMain
      videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
      url={dadosIniciais.categorias[0].videos[0].url}
-     videoDescription={"O que é Front-end? Trabalhando na área"}
+     videoDescription={"Como se tornar um Desafiannte em League of Legends"}
      />
 
      <Carousel 
@@ -34,7 +34,10 @@ function App() {
        <Carousel
        category={dadosIniciais.categorias[4]}
        />
-
+        <Carousel
+       category={dadosIniciais.categorias[5]}
+       />
+      <Footer></Footer>
     </div>
   );
 }

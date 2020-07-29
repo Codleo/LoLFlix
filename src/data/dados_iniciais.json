@@ -1,183 +1,186 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "TOP",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Formação de um Desafiente",
+        "url": "https://br.op.gg/summoner/userName=Nick+link"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "O que quer aprender hoje ,invocador?",
+          "url": "https://www.youtube.com/watch?v=zF5Ddo9JdpY"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "COMO CRIAR VANTAGEM USANDO O SEU TELEPORTE!",
+          "url": "https://www.youtube.com/watch?v=5--WWVPFf4U"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "JAX",
+          "url": "https://youtu.be/zHor6rFpvjg"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Darius",
+          "url": "https://www.youtube.com/watch?v=GHTf6NlYpXM"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Trydamere",
+          "url": "https://www.youtube.com/watch?v=Oj2PZrg8LHU"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Camille",
+          "url": "https://www.youtube.com/watch?v=R1tV3BiBug0"
+        }           
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Jungler",
+      "cor": "#F7EB00",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Formação de um Desafiente",
+        "url": "https://br.op.gg/summoner/userName=xiaolongbao"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Entendendo a Jungle",
+          "url": "https://www.youtube.com/watch?v=BwOnCSTAwmk"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Como Jogar na Selva",
+          "url": "https://www.youtube.com/watch?v=aT-MXpCoCuM"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "JOVI COACH",
+          "url": "https://www.youtube.com/watch?v=-2cLmNNSYr4"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "9 MELHORES MONOS com os MELHORES CAMPEÕES da JUNGLER",
+          "url": "https://www.youtube.com/watch?v=79xZS9pafDc"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Jungle Tracking",
+          "url": "https://www.youtube.com/watch?v=GMUzxEwGVeg"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "MID",
+      "cor": "#FF0000",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Formação de um Desafiente",
+        "url": "https://tr.op.gg/summoner/userName=AvaIanche"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "OP 5 - Dicas para melhorar na mid lane com Kami",
+          "url": "https://www.youtube.com/watch?v=WneVdo7QLEI"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "DICAS DE CONTROLE DE WAVE E GAMEPLAY DE VLADIMIR | Kami",
+          "url": "https://www.youtube.com/watch?v=Dds5dUcWD70"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Sinergia com o Jungler",
+          "url": "https://www.youtube.com/watch?v=MajeVZtPdtA"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "As wards mais importantes para quem joga no Mid no League of Legends",
+          "url": "https://www.youtube.com/watch?v=CwkZc8S1M-w"
+        },
+        {
+          "titulo": "PASSO A PASSO DE COMO STOMPAR NA MIDLANE!",
+          "url": "https://www.youtube.com/watch?v=8MPk7cLMdso"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Atirador",
+      "cor": "#69A647",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Formação de um Desafiente",
+        "url": "https://na.op.gg/summoner/userName=Doublelift"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Caitlyn",
+          "url": "https://www.youtube.com/watch?v=4x_36sV9vcE"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Ezreal",
+          "url": "https://www.youtube.com/watch?v=HT0xy1LvFIs"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Ashe",
+          "url": "https://www.youtube.com/watch?v=VZeL7KjCfbo"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Como farmar bem",
+          "url": "https://youtu.be/qNLgumXaSxU"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Quando freezar/avançar a lane",
+          "url": "https://www.youtube.com/watch?v=trx2S78Q6xA&list=PL3q_s8mOW4z37A6MiXXSksAEZZJfL03Xv"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Suporte",
+      "cor": "#48DDD6",
+      "link_extra": {
+        "text": "Formação de um Desafiente",
+        "url": "https://br.op.gg/summoner/userName=Little+Wos"
+      },
+      "videos": [
+        {
+          "titulo": "AS 5 COISAS QUE NÃO TE CONTARAM SOBRE SER MAIN SUPORTE NO LOL",
+          "url": "https://www.youtube.com/watch?v=e_lHDIrWBGQ"
+        },
+        {
+          "titulo": "COMO JOGAR DE THRESH",
+          "url": "https://www.youtube.com/watch?v=fHFQuwAC4iA"
+        },
+        {
+          "titulo": "POSICIONAMENTO DE SUPORTE",
+          "url": "https://www.youtube.com/watch?v=cbg-fMa16c0"
+        },
+        {
+          "titulo": "Quando dar Roaming",
+          "url": "https://www.youtube.com/watch?v=X1mPyKh8zxo"
+        },
+        {
+          "titulo": "15 COISAS QUE VOCÊ REALMENTE NÃO SABIA DO LEAGUE OF LEGENDS",
+          "url": "https://www.youtube.com/watch?v=XQcKmKtu12U"
+        }
+      ]
+    },
+    {
+      "titulo": "Geral sobre League Of Legends",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Seja o TOP 1 do Mundo",
+        "url": "https://tr.op.gg/summoner/userName=AvaIanche"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Como parar de dar RAGE",
+          "url": "https://www.youtube.com/watch?v=lhIYRf6Y03M"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Controlar Wave",
+          "url": "https://www.youtube.com/watch?v=UwNn22phmCU"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "NUNCA MAIS LEVE GANKS!",
+          "url": "https://www.youtube.com/watch?v=H6X_weMiWHM"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "ENTENDA COMO ISSO FAZ DIFERENÇA PRA SUBIR DE ELO!",
+          "url": "https://www.youtube.com/watch?v=UPMSdF6f3YE"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "COMO ROTACIONAR IGUAL UM CHALLENGER NO LEAGUE OF LEGENDS",
+          "url": "https://www.youtube.com/watch?v=YqcKgPW9SNU"
         }
       ]
     }
